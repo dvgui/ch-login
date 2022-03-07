@@ -1,0 +1,13 @@
+.message {
+    color: green;
+    font-style: italic;
+}
+
+.date {
+    color: brown;
+}
+
+.author {
+    color: blue;
+    font-weight: bold;
+}
